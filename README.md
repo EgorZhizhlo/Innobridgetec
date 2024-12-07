@@ -1,6 +1,4 @@
 # Смарт-контракт ЦФА от <a href="https://innobridgetecfond.tilda.ws/" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Innobridgetec</a>
---
-
 ## Описание смарт-контракта
 
 Наш контракт создан для управления средствами инвесторов в шести ключевых направлениях:
