@@ -10,11 +10,16 @@
 #### Cтруктура для хранения данных о каждой сфере
 ```solidity
 struct Sphere {
-    string name; # Название сферы
-    address sphereToken; # Адрес токена, представляющего эту сферу
-    uint256 totalInvested; # Общая сумма вложений в сферу
+    string name;              // Название сферы
+    address sphereToken;      // Адрес токена, связанного с этой сферой
+    uint256 totalInvested;    // Общая сумма инвестиций
 }
-Sphere[] public spheres; # Массив всех сфер
-address public owner; # Владелец контракта, который может обновлять данные (например, токены сфер)
+
+mapping(uint256 => Sphere) public spheres;  // Маппинг сфер по индексу
+uint256 public sphereCount;                 // Количество сфер
+address public owner;                       // Владелец контракта
+
+mapping(address => mapping(uint256 => uint256)) public investorBalances;  // Балансы по сферам
+mapping(address => uint256) public unifiedTokenBalances;                  // Баланс единого токена
 ```
 #### Инициализация сфер
