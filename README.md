@@ -1,5 +1,10 @@
 # Innobridgetec
-<a href="https://innobridgetecfond.tilda.ws/" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Перейти на сайт Innobridgetec</a>
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://innobridgetecfond.tilda.ws/" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">
+        Перейти на сайт Инновационного Фонда
+    </a>
+</div>
+
 ## Этот смарт-контракт предназначен для управления инвестициями через платформу A-Token. Он позволяет инвесторам вкладывать средства в определенные отрасли (агропромышленность, IT, экология, фармацевтика, энергетика) либо использовать единый токен, равномерно распределяющий средства между всеми сферами. Контракт поддерживает прозрачность и безопасное управление средствами.
 ### Ключевая задача контракта — поддерживать информацию о сферах, инвесторах и токенах.
 #### Cтруктура для хранения данных о каждой сфере
