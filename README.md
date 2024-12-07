@@ -1,7 +1,7 @@
 # Innobridgetec
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://innobridgetecfond.tilda.ws/" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">
-        Перейти на сайт Инновационного Фонда
+        Перейти на сайт Innobridgetec
     </a>
 </div>
 
